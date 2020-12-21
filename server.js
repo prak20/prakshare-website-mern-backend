@@ -15,7 +15,7 @@ connectDB();
 const corsOptions={
     origin: process.env.ALLOWED_CLIENTS.split(',')
 }
-
+app.use(cors(corsOptions))
 //TEMPLATE ENGINE
 app.set('views',path.join(__dirname,'/views'))
 app.set('view engine','ejs')
