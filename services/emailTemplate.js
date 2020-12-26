@@ -142,12 +142,12 @@ module.exports = ({emailFrom, downloadLink, size, expires}) => {
                             <td class="content-block" style="font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; font-size: 12px; color: #999999; text-align: center;">
                                 <span class="apple-link" style="color: #999999; font-size: 12px; text-align: center;">Copyright @ Prakhar Agarwal</span>
                                 <br>Ghaziabad, Uttar Pradesh, India - 201002
-                                <br> Want to share a file? <a href="http://localhost:3000" style="text-decoration: underline; color: #999999; font-size: 12px; text-align: center;">PrakShare</a>.
+                                <br> Want to share a file? <a href="https://www.linkedin.com/in/prakhar-agarwal-267634151/" style="color: #999999; font-size: 12px; text-align: center; text-decoration: none;">ContactUs</a>.
                             </td>
                             </tr>
                             <tr>
                             <td class="content-block powered-by" style="font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; font-size: 12px; color: #999999; text-align: center;">
-                                Powered by <a href="https://www.linkedin.com/in/prakhar-agarwal-267634151/" style="color: #999999; font-size: 12px; text-align: center; text-decoration: none;">PrakShare Services</a>.
+                                Powered by PrakShare Services.
                             </td>
                             </tr>
                         </table>
