@@ -24,7 +24,7 @@
 section.download {
     background:rgb(219, 252, 216);
     width: 430px;
-    max-width: 90%;
+    /* max-width: 90%; */
     border-radius: 25px;
     box-shadow: 0px 20px 20px 0px #00000017;
     padding: 2rem;
