@@ -54,13 +54,6 @@ section.download {
   .send-btn-container a:hover {
       background: var(--dark-green);
   }
-  /* .footer{
-    width: 100%;
-    position: relative;
-    bottom: -70px;
-    text-align: center;
-    font-weight: bold;
-    } */
     .footer{
       width: 100%;
       position: fixed;
